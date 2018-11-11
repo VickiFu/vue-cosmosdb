@@ -32,6 +32,7 @@ npm install
 ### Database settings
 
 * Configure Cosmos DB server settings
+    Provision Cosmos DB with MongoDB API. Also using "heroes" as the colloction name.
 
     Rename the `.env.example.js` file to `.env` in the root folder and update it with your Cosmos DB settings. Replace the accountName, databaseName, key, and port with your specific configuration.
 
